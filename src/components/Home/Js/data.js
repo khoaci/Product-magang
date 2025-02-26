@@ -72,7 +72,7 @@ export const pasarData = [
   },
   {
     id: 8,
-    nama: "Pasar Sukasari",
+    nama: "Pasar Sukasarasdsaa",
     lokasi: "Jalan Siliwangi No.35",
     kota: "Bogor",
     gambar: "https://cloud.jpnn.com/photo/jatim/news/normal/2024/07/10/rancangan-pasar-gembrong-sukasari-kota-bogor-yang-dicanangka-gxia.jpg",
