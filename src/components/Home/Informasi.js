@@ -7,13 +7,11 @@ const isi = () => {
     <section className="beach-cleanup">
       <div className="text-content">
         <h1>
-          <span className="highlight">COMMITTED</span> TO CLEANING UP COASTLINES
-          AND MORE
+          <span className="highlight">TEMU MART</span> Yuk, cari tahu informasi lengkapnya di sini!
         </h1>
         <p>
-          We are the Marine Conservational Society, a global nonprofit
-          organization championing healthier seas and oceans. Our partners and
-          volunteers work together to ensure that our waters teem with life.
+        Kami menyediakan Informasi yang dapat membantu bapak dan ibu sekalian untuk mengetahui pasar apa saya yang terdia di Kota Bogor
+        Dan Informasi tentang Mini Market yang tersedia di kota Bogor
         </p>
       </div>
       <div className="image-container">
