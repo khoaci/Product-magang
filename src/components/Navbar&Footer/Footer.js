@@ -26,10 +26,10 @@ const Footer = () => {
           </div>
           <div className="footer-contact">
             <p>
-              <i className="bx bx-home icon">+44 1224 051727</i>
+              <i className="bx bx-home icon">+62 85134334569</i>
             </p>
             <p>
-              <i className="bx bx-home icon">+44 1224 051727</i>
+              <i className="bx bx-home icon">+62 85134334569</i>
             </p>
           </div>
         </div>
